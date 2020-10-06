@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Vinicios Wentz 👋
+
+Software Engineer with passion for Backend and BigData
 
 <!--
 **whoiswentz/whoiswentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
