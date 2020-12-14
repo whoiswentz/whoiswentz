@@ -1,6 +1,8 @@
 ### Hello World, I'm Vinicios Wentz 👋
 
-Software Engineer with passion for Backend and BigData
+Software Engineer that works with Backend and have passion for Frontend, Blockchain, and Dapps
+
+Ethereum wallet: 0xDD5ace5f7A981Fc95971569Ef26e0c67a7158915
 
 <!--
 **whoiswentz/whoiswentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
