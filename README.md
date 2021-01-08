@@ -4,8 +4,6 @@ Software Engineer that works with Backend and have passion for Frontend, Blockch
 
 Ethereum wallet: 0xDD5ace5f7A981Fc95971569Ef26e0c67a7158915
 
-[![whoiswentz's github stats](https://github-readme-stats.vercel.app/api?username=whoiswentz)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **whoiswentz/whoiswentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
