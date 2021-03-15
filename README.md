@@ -2,6 +2,8 @@
 
 Software Engineer that works with Backend and have passion for Frontend, Blockchain, and Dapps
 
+GO VEGAN 🌱
+
 Ethereum wallet: 0xDD5ace5f7A981Fc95971569Ef26e0c67a7158915
 
 <!--
