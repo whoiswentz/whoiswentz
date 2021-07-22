@@ -1,6 +1,6 @@
 ### Hello World, I'm Vinicios Wentz 👋
 
-Software Engineer that works with Backend and have passion for Frontend, Blockchain, and Dapps
+Software Engineer that works with Backend
 
 GO VEGAN 🌱
 
