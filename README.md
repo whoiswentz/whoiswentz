@@ -2,8 +2,6 @@
 
 Software Engineer that works with Backend
 
-Ethereum wallet: 0xDD5ace5f7A981Fc95971569Ef26e0c67a7158915
-
 <!--
 **whoiswentz/whoiswentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
